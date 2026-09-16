@@ -11,6 +11,8 @@
 # import math module.
 import math
 # Create a variable called 'radius' and take its value form user.
+r=input(10)
 # Convert the variable to integer using int()
+area=input(r)
 # use the contant pi form math module and compute the area of the circle using the variable 'radius'
 area=math.pi*r*r
