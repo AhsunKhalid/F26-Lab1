@@ -15,7 +15,7 @@ print(message)
 
 # TO DO 2: Checking the type of a varibale
 # Use the builtin type() function and print the type of this variable.
-type(message)
+print(type(message))
 
 # TO DO 3: Dynamic Typing:
 # Create a varibel called `x` and assign it the value 10, then print the type of this variable.
